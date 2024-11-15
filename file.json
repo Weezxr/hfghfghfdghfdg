@@ -1,0 +1,13 @@
+{
+    "name": "My TON App",
+    "description": "Это пример приложения, использующего TonConnect.",
+    "url": "https://your-app-url.com",
+    "icon": "https://your-app-url.com/icon.png",
+    "shortName": "MyApp",
+    "themeColor": "#ffffff",
+    "backgroundColor": "#000000",
+    "redirect_uris": [
+        "https://your-app-url.com/callback"
+    ]
+}
+
